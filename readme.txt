@@ -26,3 +26,5 @@ Tested with:
  
 Not test with:
 - android api 21 lollipop
+
+Written by U.T. Otite
